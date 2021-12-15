@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "59ItZNrwZbAtz2/lR6UNK9l3anBBwROrZA+j6kqcPqfKpJLNXCqjHYLFu2AfFpMWwXVvK2MK3B0LuMCR5YZOFA==",
+  "success": true,
+  "projectFilePath": "D:\\2013\\thang_dep_trai\\Lam_Viec_DEVFAST\\API\\webcoreapi\\webcoreapi\\webcoreapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
